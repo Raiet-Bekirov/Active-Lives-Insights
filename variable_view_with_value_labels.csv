@@ -1,0 +1,162 @@
+﻿variable_name,variable_label,value_label_set,value_labels
+id.case,"ID,case - unique identifier - LAL 2025",,
+responsemode,ResponseMode,labels0,1.0 = Face-to-face interview; 2.0 = Postal; 3.0 = Online
+mergeid,MergeID_Unique numeric ID,,
+q1,"In the past 7 days, have you done a continuous walk lasting at least 10 minutes?",labels1,1.0 = Yes; 2.0 = No; 3.0 = Don’t know; 4.0 = Prefer not to say
+q1a,"In the past 7 days, on how many days did you do a walk lasting at least 10 minutes?",labels2,1.0 = 1; 2.0 = 2; 3.0 = 3; 4.0 = 4; 5.0 = 5; 6.0 = 6; 7.0 = 7; 8.0 = Don’t know; 9.0 = Prefer not to say
+q1b,Hours:,,
+q1bb,Minutes:,,
+q1b_dk,(no var label),labels3,1.0 = Don't know; 2.0 = Prefer not to say
+q1c,Was the effort you put into walking usually enough to raise your breathing rate?,labels4,1.0 = Yes; 2.0 = No; 3.0 = Don’t know; 4.0 = Prefer not to say
+q2,"In the past 7 days, have you done a cycle ride?",labels1,1.0 = Yes; 2.0 = No; 3.0 = Don’t know; 4.0 = Prefer not to say
+q2a,"In the past 7 days, on how many days did you do a cycle ride?",labels2,1.0 = 1; 2.0 = 2; 3.0 = 3; 4.0 = 4; 5.0 = 5; 6.0 = 6; 7.0 = 7; 8.0 = Don’t know; 9.0 = Prefer not to say
+q2b,Hours:,,
+q2bb,Minutes:,,
+q2b_dk,(no var label),labels3,1.0 = Don't know; 2.0 = Prefer not to say
+q2c,Was the effort you put into cycling usually enough to raise your breathing rate?,labels4,1.0 = Yes; 2.0 = No; 3.0 = Don’t know; 4.0 = Prefer not to say
+q3,"In the past 7 days, have you done a sport, fitness activity (such as gym or fitness classes), or dance?",labels5,1.0 = Yes; 2.0 = No; 3.0 = Don’t know; 4.0 = Prefer not to say
+q3a,"In the past 7 days, on how many days did you do sport, fitness activity (such as gym or fitness classes), or dance?",labels2,1.0 = 1; 2.0 = 2; 3.0 = 3; 4.0 = 4; 5.0 = 5; 6.0 = 6; 7.0 = 7; 8.0 = Don’t know; 9.0 = Prefer not to say
+q3b,Hours:,,
+q3bb,Minutes:,,
+q3b_dk,(no var label),labels3,1.0 = Don't know; 2.0 = Prefer not to say
+q3c,"Was the effort you put into sport, fitness activities, or dance usually enough to raise your breathing rate?",labels4,1.0 = Yes; 2.0 = No; 3.0 = Don’t know; 4.0 = Prefer not to say
+q4a,I feel that I have the ability to be physically active,labels6,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree nor disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don't know; 7.0 = Prefer not to say
+q4b,i I feel that I have the opportunity to be physically active,labels6,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree nor disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don't know; 7.0 = Prefer not to say
+q4c,I find exercise enjoyable and satisfying,labels6,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree nor disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don't know; 7.0 = Prefer not to say
+q4d,It is important to me to exercise regularly,labels6,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree nor disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don't know; 7.0 = Prefer not to say
+q4e,I feel guilty when I don’t exercise,labels6,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree nor disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don't know; 7.0 = Prefer not to say
+q5a,How satisfied are you with your life nowadays?,labels7,1.0 = 0=Not at all; 2.0 = 1; 3.0 = 2; 4.0 = 3; 5.0 = 4; 6.0 = 5; 7.0 = 6; 8.0 = 7; 9.0 = 8; 10.0 = 9; 11.0 = 10=Completely; 12.0 = Prefer not to say
+q5b,How happy did you feel yesterday?,labels7,1.0 = 0=Not at all; 2.0 = 1; 3.0 = 2; 4.0 = 3; 5.0 = 4; 6.0 = 5; 7.0 = 6; 8.0 = 7; 9.0 = 8; 10.0 = 9; 11.0 = 10=Completely; 12.0 = Prefer not to say
+q5c,To what extent do you feel the things you do in your life are worthwhile?,labels7,1.0 = 0=Not at all; 2.0 = 1; 3.0 = 2; 4.0 = 3; 5.0 = 4; 6.0 = 5; 7.0 = 6; 8.0 = 7; 9.0 = 8; 10.0 = 9; 11.0 = 10=Completely; 12.0 = Prefer not to say
+q5d,How anxious did you feel yesterday?,labels7,1.0 = 0=Not at all; 2.0 = 1; 3.0 = 2; 4.0 = 3; 5.0 = 4; 6.0 = 5; 7.0 = 6; 8.0 = 7; 9.0 = 8; 10.0 = 9; 11.0 = 10=Completely; 12.0 = Prefer not to say
+q6,"To what extent do you agree with the statement “I can achieve most of the goals I set myself""?",labels8,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree not disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don't know; 7.0 = Prefer not to say
+q7,To what extent do you agree or disagree that most people in your local area can be trusted?,labels9,1.0 = Strongly agree; 2.0 = Agree; 3.0 = Neither agree nor disagree; 4.0 = Disagree; 5.0 = Strongly disagree; 6.0 = Don’t know; 7.0 = Prefer not to say
+q8_1,Where or who would you go to for advice and support if you wanted to be more physically active? - Leisure centre,labels10,1.0 = Leisure centre
+q8_2,Where or who would you go to for advice and support if you wanted to be more physically active? - Sports club(s),labels11,1.0 = Sports club(s)
+q8_3,Where or who would you go to for advice and support if you wanted to be more physically active? - GP surgery,labels12,1.0 = GP surgery
+q8_4,Where or who would you go to for advice and support if you wanted to be more physically active? - Health visitor,labels13,1.0 = Health visitor
+q8_5,Where or who would you go to for advice and support if you wanted to be more physically active? - Hospital,labels14,1.0 = Hospital
+q8_6,Where or who would you go to for advice and support if you wanted to be more physically active? - Community worker,labels15,1.0 = Community worker
+q8_7,Where or who would you go to for advice and support if you wanted to be more physically active? - School or college teacher,labels16,1.0 = School or college teacher
+q8_8,Where or who would you go to for advice and support if you wanted to be more physically active? - Local Authority / Council,labels17,1.0 = Local Authority / Council
+q8_9,Where or who would you go to for advice and support if you wanted to be more physically active? - Other (please type in the box below),labels18,1.0 = Other (please type in the box below)
+q8b,Other  (TYPE IN):,,
+Q8a,Are you a tenant of Exeter City Council housing services?,labels19,1.0 = Yes; 2.0 = No; 3.0 = Prefer not to say; 4.0 = Not applicable
+q9a,Riverside Leisure Centre,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9b,St Sidwell's Point,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9c,Wonford Sports Centre,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9d,ISCA Centre,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9e,Northbrook Swimming Pool,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9f,Exeter Arena,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9g,Ludwell Valley Park,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9h,Riverside Valley Park,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9i,Mincinglake Valley Park,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9j,Barley Valley Park,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9k,Heavitree Pleasure Ground,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9l,Cowick Barton Playing Fields,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9m,Green Circle Walk,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9n,Cranbrook Country Park,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9o,Wonford Playing Fields,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9p,King George V Playing Fields,labels20,"1.0 = No, never heard of it; 2.0 = No, but aware of it; 3.0 = Yes, but only rarely; 4.0 = Yes, but only occasionally; 5.0 = Yes, use it regularly"
+q9.1,Specific local community centre:,,
+q10,Are you ... ?,labels21,1.0 = Female; 2.0 = Male; 3.0 = Non-binary; 4.0 = Prefer to self-describe (TYPE IN BELOW); 5.0 = Prefer not to say
+q10a_oth,Other  (TYPE IN):,,
+q10b,Is your gender identity the same as the sex you were regi...,labels22,1.0 = Yes; 2.0 = No; 3.0 = Prefer not to say
+q11,Age:,,
+q11a,Age (DK or Prefer not to say),labels3,1.0 = Don't know; 2.0 = Prefer not to say
+q12,Which one of the following best describes your ethnic group or background?,labels23,1.0 = White British; 2.0 = Other White background; 3.0 = Mixed/multiple ethnic groups; 4.0 = Asian/Asian British; 5.0 = Chinese; 6.0 = Black/African/ Caribbean/Black British; 7.0 = Other ethnic group; 8.0 = Prefer not to say
+q12aa,Other ethnic background (TYPE IN):,,
+q13a2,Number aged 16 to 19:,,
+q13a3,Number aged 20 to 24:,,
+q13ap,Number aged 25 or older:,labels24,1.0 = Prefer not to say
+q13_sum,(no var label),,
+q14b,How many children in the following age groups currently live in your household?   Number aged 0 to 4:,,
+q14b2,How many children in the following age groups currently live in your household?   Number aged 5 to 10:,,
+q14b3,How many children in the following age groups currently live in your household?   Number aged 11 to 15:,,
+q14bp,(no var label),labels24,1.0 = Prefer not to say
+q14_sum,SUM OF ADULTS IN HOUSEHOLD,,
+q13_q14_sum,SUM OF CHILDREN IN HOUSEHOLD,,
+q15_hhold_1,"Please could you tell us how the other members of this household are related to you?  - Partner or spouse (Include husband or wife, civil partners, partners)",labels25,"1.0 = Partner or spouse (Include husband or wife, civil partners, partners)"
+q15_hhold_2,Please could you tell us how the other members of this household are related to you?  - Son(s) or daughter(s) (including step-children) who live with me full-time*,labels26,1.0 = Son(s) or daughter(s) (including step-children) who live with me full-time*
+q15_hhold_3,Please could you tell us how the other members of this household are related to you?  - Son(s) or daughters(s) (including step-children) who only live with me part of the week  (only include regular arrangements)*,labels27,1.0 = Son(s) or daughters(s) (including step-children) who only live with me part of the week  (only include regular arrangeme
+q15_hhold_4,Please could you tell us how the other members of this household are related to you?  - Mother or father (include mothers/fathers in-laws and step-mother or step-father),labels28,1.0 = Mother or father (include mothers/fathers in-laws and step-mother or step-father)
+q15_hhold_5,Please could you tell us how the other members of this household are related to you?  - Grandparent(s),labels29,1.0 = Grandparent(s)
+q15_hhold_6,Please could you tell us how the other members of this household are related to you?  - Grandchild or grandchildren,labels30,1.0 = Grandchild or grandchildren
+q15_hhold_7,Please could you tell us how the other members of this household are related to you?  - Sister(s) or brother(s) (Include brothers/sisters in-law and step-brothers/sisters),labels31,1.0 = Sister(s) or brother(s) (Include brothers/sisters in-law and step-brothers/sisters)
+q15_hhold_8,Please could you tell us how the other members of this household are related to you?  - Other relation,labels32,1.0 = Other relation
+q15_hhold_9,Please could you tell us how the other members of this household are related to you?  - Friend(s) and/or house shares,labels33,1.0 = Friend(s) and/or house shares
+q15_hhold_10,Please could you tell us how the other members of this household are related to you?  - Lodger(s) or someone renting a room,labels34,1.0 = Lodger(s) or someone renting a room
+q15_hhold_11,Please could you tell us how the other members of this household are related to you?  - Don’t know,labels35,1.0 = Don’t know
+q15_hhold_12,Please could you tell us how the other members of this household are related to you?  - Prefer not to say /  Not applicable,labels36,1.0 = Prefer not to say /  Not applicable
+q16,Do you have any physical or mental health conditions or illnesses that have lasted or are expected to last 12 months or more?,labels37,1.0 = Yes; 2.0 = No; 3.0 = Prefer not to say
+q17,Do these physical or mental health conditions or illnesses have a substantial effect on your ability to do normal daily activities?,labels37,1.0 = Yes; 2.0 = No; 3.0 = Prefer not to say
+q18,"Finally, some questions about your work and employment.  ...",labels38,1.0 = Working full-time; 2.0 = Working part-time; 3.0 = Self-employed; 4.0 = Unemployed – less than 12 months; 5.0 = Student – in full-time education studying for a recognised qualification; 6.0 = Student – in part-time education studying for a recognised qualification; 7.0 = Unemployed (long-term) – more than 12 months; 8.0 = Not working – retired; 9.0 = Not working – looking after house/children; 10.0 = Not working – long-term sick or disabled; 11.0 = Other  [TYPE IN THE BOX BELOW]; 12.0 = Prefer not to say
+q18_oth,(no var label),,
+q19,Where are you studying?,labels39,1.0 = School Year 11; 2.0 = School sixth form; 3.0 = Sixth form college; 4.0 = A further education college or other further education institution; 5.0 = A university or other higher education institution; 6.0 = Other; 7.0 = Don’t know
+q20,Have you ever worked?,labels40,1.0 = Yes; 2.0 = No; 3.0 = Prefer not to say
+q21,Are (or were) you working as an employee or are (or were) you self-employed?,labels41,1.0 = Employed; 2.0 = Self-employed; 3.0 = Prefer not to say
+q22,"In your job, do you (or did you) have any formal responsibility for supervising the work of other employees?",labels37,1.0 = Yes; 2.0 = No; 3.0 = Prefer not to say
+q23,How many people work (or worked) for your employer at the place where you work (or last worked)?,labels42,1.0 = 1 to 24; 2.0 = 25 to 499; 3.0 = 500 or more; 4.0 = Prefer not to say
+q24,Are (or were) you working on your own or do (or did) you have employees?,labels43,1.0 = On my own/with partner but no employees; 2.0 = With employees; 3.0 = Prefer not to say
+q25,How many people do (or did) you employ at the place where you work (or worked)?,labels42,1.0 = 1 to 24; 2.0 = 25 to 499; 3.0 = 500 or more; 4.0 = Prefer not to say
+q26,Which of these best describes the sort of work you do (or did in your last job)?,labels44,"1.0 = Senior managers or administrators (usually responsible for planning, organising and co-ordinating work, and for finance); 2.0 = Modern professional occupations such as: teacher – nurse – physiotherapist -  social worker - welfare officer – ar; 3.0 = Traditional professional occupations such as: accountant – solicitor – medical practitioner – scientist – civil/; 4.0 = Middle or junior managers such as: office manager – retail manager – bank manager – restaurant manager – warehou; 5.0 = Clerical and intermediate occupations such as: secretary – personal assistant – clerical worker – office clerk –; 6.0 = Technical and craft occupations such as: motor mechanic – fitter – inspector – plumber – printer – tool maker; 7.0 = Semi-routine manual and service occupations such as: postal worker – machine operative – security guard – caretake; 8.0 = Routine manual and service occupations such as: HGV driver – van driver – cleaner – porter – packer – sewing m; 9.0 = Prefer not to say"
+q27,"How often, on average, would you say you work from home?",labels45,1.0 = Always; 2.0 = Often; 3.0 = Sometimes; 4.0 = Never
+q28a_1,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - No travel for work in the last week",labels46,1.0 = No travel for work in the last week
+q28a_2,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Driving a car or van alone",labels47,1.0 = Driving a car or van alone
+q28a_3,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Sharing a car or van as a driver or passenger",labels48,1.0 = Sharing a car or van as a driver or passenger
+q28a_4,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Walking",labels49,1.0 = Walking
+q28a_5,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Bicycle",labels50,1.0 = Bicycle
+q28a_6,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Bus",labels51,1.0 = Bus
+q28a_7,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Train",labels52,1.0 = Train
+q28a_8,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Motorbike, moped or scooter",labels53,"1.0 = Motorbike, moped or scooter"
+q28a_9,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Taxi",labels54,1.0 = Taxi
+q28a_10,"In the last seven days, which modes of transport did you use for travel to and from your usual place of work? - Other (please tick and write in below)",labels55,1.0 = Other (please tick and write in below)
+q28a_oth,Q28a - Other,,
+q28b,"Please tick the single mode of travel that you would say was the main mode of transport you used to and from your usual place of work in the last seven days, for the longest part of your journey.",labels56,"1.0 = Driving a car or van alone; 2.0 = Sharing a car or van as a driver or passenger; 3.0 = Walking; 4.0 = Bicycle; 5.0 = Bus; 6.0 = Train; 7.0 = Motorbike, moped or scooter; 8.0 = Taxi; 9.0 = {Q28a_OTH}"
+q29,What is the postcode of your usual place of work?,,
+q30_1,What would encourage you to introduce or increase cycling or walking as part of your travel to and from work?   - I already do this as much as is possible,labels57,1.0 = I already do this as much as is possible
+q30_2,What would encourage you to introduce or increase cycling or walking as part of your travel to and from work?   - Doesn’t apply ‐ I work from home,labels58,1.0 = Doesn’t apply ‐ I work from home
+q30_3,What would encourage you to introduce or increase cycling or walking as part of your travel to and from work?   - Nothing ‐ I don’t work,labels59,1.0 = Nothing ‐ I don’t work
+q30_4,What would encourage you to introduce or increase cycling or walking as part of your travel to and from work?   - Other (please tick and write in below),labels55,1.0 = Other (please tick and write in below)
+q30_oth,What would encourage you to introduce or increase cycling or walking as part of your travel to and from work?   - Other,,
+q31_1,"Thinking about the people in this household aged 16-19 (IF ANY), do any of the following statements apply to them?   - Living with their parents",labels60,1.0 = Living with their parents
+q31_2,"Thinking about the people in this household aged 16-19 (IF ANY), do any of the following statements apply to them?   - In full-time education (but not studying at University for a degree), OR in unwaged government training/ work experience",labels61,"1.0 = In full-time education (but not studying at University for a degree), OR in unwaged government training/ work experience"
+q31_3,"Thinking about the people in this household aged 16-19 (IF ANY), do any of the following statements apply to them?   - Not married, not in a Civil Partnership, and not living with a partner",labels62,"1.0 = Not married, not in a Civil Partnership, and not living with a partner"
+q31_4,"Thinking about the people in this household aged 16-19 (IF ANY), do any of the following statements apply to them?   - None of the above",labels63,1.0 = None of the above
+q31_5,"Thinking about the people in this household aged 16-19 (IF ANY), do any of the following statements apply to them?   - Prefer not to say",labels24,1.0 = Prefer not to say
+q32_1,Do you receive any of these benefits? - Income Support,labels64,1.0 = Income Support
+q32_2,Do you receive any of these benefits? - Income-Based Jobseekers Allowance,labels65,1.0 = Income-Based Jobseekers Allowance
+q32_3,Do you receive any of these benefits? - Employment and Support Allowance,labels66,1.0 = Employment and Support Allowance
+q32_4,Do you receive any of these benefits? - Pension Credit,labels67,1.0 = Pension Credit
+q32_5,Do you receive any of these benefits? - Child Tax Credit,labels68,1.0 = Child Tax Credit
+q32_6,Do you receive any of these benefits? - Universal Credit,labels69,1.0 = Universal Credit
+q32_7,Do you receive any of these benefits? - Tax Credits other than Child Tax Credit,labels70,1.0 = Tax Credits other than Child Tax Credit
+q32_8,Do you receive any of these benefits? - None of the above,labels63,1.0 = None of the above
+q32_9,Do you receive any of these benefits? - Prefer not to say,labels24,1.0 = Prefer not to say
+q33,"What is your total household income, including any income or benefits from any source, before tax and before any housing costs?     Per week:",,
+q33a,"What is your total household income, including any income or benefits from any source, before tax and before any housing costs?     Per month:",,
+q33dk,"What is your total household income, including any income or benefits from any source, before tax and before any housing costs?     - DK",labels3,1.0 = Don't know; 2.0 = Prefer not to say
+q34,Please could you confirm your full home postcode?,,
+mins_activ_bkdwn,Minutes of Moderate Physical Activity in last week (raised breathing rate),labels71,"1.0 = None (0); 2.0 = 1-29 minutes; 3.0 = 30-59 minutes; 4.0 = 60-99 mins; 5.0 = 100-149 mins; 6.0 = 150-299 mins; 7.0 = 300-599 mins; 8.0 = 600-999 mins; 9.0 = 1,000+ mins"
+mins_any_bkdwn,Minutes of ANY Physical Activity in last week,labels71,"1.0 = None (0); 2.0 = 1-29 minutes; 3.0 = 30-59 minutes; 4.0 = 60-99 mins; 5.0 = 100-149 mins; 6.0 = 150-299 mins; 7.0 = 300-599 mins; 8.0 = 600-999 mins; 9.0 = 1,000+ mins"
+activity_level,OVERALL ACTIVITY LEVELS (based on moderate physical activity only),labels72,1.0 = Inactive (less than 30 mins); 2.0 = Fairly active (30-149 minutes); 3.0 = Active (150+ minutes); 4.0 = Not stated
+mins_total_activ,Total ACTIVE mins in last week (moderate activity),,
+mins_total_any,Total mins of ANY physical activity in last week,,
+lsoa_name,LSOA Name,labels73,"1.0 = Exeter: Alphington Road - Ebrington Road area; 2.0 = Exeter: Beacon Heath area; 3.0 = Exeter: Burnthouse Lane area (Poets); 4.0 = Exeter: Burnthouse Lane area (Rifford Road); 5.0 = Exeter: Burnthouse Lane area (Trees); 6.0 = Exeter: Cathedral and City Centre East; 7.0 = Exeter: City Centre West; 8.0 = Exeter: Countess Wear, Lower Wear; 9.0 = Exeter: Cowick - Barley Farm Road area; 10.0 = Exeter: Cowick - Newman Road area; 11.0 = Exeter: Exwick - Cemetery area; 12.0 = Exeter: Exwick - Farm Hill area; 13.0 = Exeter: Exwick - Redhills area; 14.0 = Exeter: Hamlins Lane and Honeylands area; 15.0 = Exeter: Lancelot Road area; 16.0 = Exeter: Sidwell Street and Clifton Road area; 17.0 = Exeter: Stoke Hill; 18.0 = Exeter: Summerway area; 19.0 = Exeter: Whipton - Leypark Road and Bramley Avenue area; 20.0 = Exeter: Whipton, Hillyfield Road area; 21.0 = Cranbrook"
+location,Location,labels74,1.0 = Exeter; 2.0 = Cranbrook
+weight,Weight (based on location/gender/age),,
+inactive1,Inactive categories,labels75,1.0 = None (0 minutes with raised breathing rate); 2.0 = 1-9 minutes; 3.0 = 10-19 minutes; 4.0 = 20-29 minutes
+inactive2,Inactive categories,labels76,1.0 = 0 minutes a week of ANY activity; 2.0 = 0 minutes a week of moderate activity but some light activity; 3.0 = 1 to 29 minutes a week of moderate activity
+walk10minsbr,"WALKING: At least 10 mins at least once in last week (1+ days,moderate intensity)",labels77,1.0 = Yes; 2.0 = No; 3.0 = Not stated
+cycle10minsbr,"CYCLING: At least 10 mins at least once in last week (1+ days,moderate intensity)",labels77,1.0 = Yes; 2.0 = No; 3.0 = Not stated
+sports10minsbr,"SPORTS/FITNESS/DANCE: At least 10 mins at least once in last week (1+ days,moderate intensity)",labels77,1.0 = Yes; 2.0 = No; 3.0 = Not stated
+dayswalk_rbr,Days last week: WALK for 10+ mins: Raised breathing rate,labels78,1.0 = 1 day; 2.0 = 2 days; 3.0 = 3 days; 4.0 = 4 days; 5.0 = 5 days; 6.0 = 6 days; 7.0 = 7 days; 8.0 = Don't know; 9.0 = Not stated
+dayscycle_rbr,Days last week: CYCLE for 10+ mins: Raised breathing rate,labels78,1.0 = 1 day; 2.0 = 2 days; 3.0 = 3 days; 4.0 = 4 days; 5.0 = 5 days; 6.0 = 6 days; 7.0 = 7 days; 8.0 = Don't know; 9.0 = Not stated
+dayssport_rbr,Days last week: SPORTS/FITNESS/DANCE for 10+ mins: Raised breathing rate,labels78,1.0 = 1 day; 2.0 = 2 days; 3.0 = 3 days; 4.0 = 4 days; 5.0 = 5 days; 6.0 = 6 days; 7.0 = 7 days; 8.0 = Don't know; 9.0 = Not stated
+ns_sec,Socio-economic status,labels79,1.0 = Higher managerial and professional occupations (NS-SEC 1); 2.0 = Lower managerial and professional occupations (NS-SEC 2); 3.0 = Intermediate occupations (NS-SEC 3); 4.0 = Small employers and own account workers (NS-SEC 4); 5.0 = Lower supervisory and technical occupations (NS-SEC 5); 6.0 = Semi-routine occupations (NS-SEC 6); 7.0 = Routine occupations (NS-SEC 7); 8.0 = Never worked and long-term unemployed (NS-SEC 8); 9.0 = Students/ unclassified (NS SEC 9); 10.0 = Not stated
+ns_sec_summ,SUMMARY GROUPS:   Socio-economic status,labels80,1.0 = Higher occupations (NS-SEC1-2); 2.0 = Intermediate occupations (NS-SEC 3-5); 3.0 = Lower occupations (NS-SEC 6-8); 4.0 = Students/ unclassified (NS SEC 9); 5.0 = Not stated
+dep_children,Any dependent children (0-15 or dependent 16-19)?,labels81,1.0 = Yes
+no_dep_children,No dependent children (0-15 or dependent 16-19)?,labels81,1.0 = Yes
+receive_oow_ben,Receive OOW benefits,labels82,1.0 = Yes; 2.0 = No; 3.0 = Not stated
+low_income_fam,"Low Income family (dependent children 0-15 or dep 16-19, and on OOW benefits)",labels82,1.0 = Yes; 2.0 = No; 3.0 = Not stated
+workage_ndc_bens,"Working age adult no dependent children, on OOW benefits?",labels82,1.0 = Yes; 2.0 = No; 3.0 = Not stated

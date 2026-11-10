@@ -52,5 +52,3 @@ Open `Master_dip.ipynb` with the classified survey CSV (`data_raw__no_index.csv`
 To repeat geographic preparation, supply the May 2026 ONS Postcode Directory extract for the EX postcode area and the 2021 LSOA to 2024 ward and local authority lookup, using the filenames in `area_classification.ipynb`. To repeat the SPSS export, also install `pyreadstat` and supply `LAL 2025.sav`. Run either preparation notebook on a working copy: both can overwrite the analysis CSV.
 
 </details>
-
-> **Data sharing:** The charts and figures on this page are aggregate. The repository also contains respondent-level survey records and notebook outputs, including full postcodes. Verify that those files are approved for public release before sharing the repository.
